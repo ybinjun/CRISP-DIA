@@ -1,2 +1,0 @@
-# TestPrivate
-DescriptionTestPrivate
