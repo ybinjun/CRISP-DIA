@@ -1,0 +1,1 @@
+CRISP-DIA is a software for liquid chromatography-tandem mass spectrometry (LC-MS/MS) based proteomics data processing, which enables accurate and reliable quantification for data-independent acquisition (DIA) proteomics.
